@@ -95,15 +95,15 @@ Real-time video conferencing application.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/henok-amare" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
 
   <a href="https://www.youtube.com/@Heni_12_21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45"/>
   </a>
 
   <a href="https://t.me/Heni_12_21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/>
   </a>
 </p>
 
