@@ -1,30 +1,106 @@
-# Hi, I'm Henok Amare 👋
+# Hi, I'm Yibeltal Yitayew 👋
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineer;Full+Stack+Developer;Backend+Engineer;MernStack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
+
+---
+
 
 ## 🚀 About Me
-🎓 Software Engineering Student (3rd Year)  
-💻 Passionate Full-Stack Web Developer  
-🌱 Currently learning modern web development  
-🔬 Interested in Web Development, Backend Systems, and AI  
+
+
+    💻 Software Engineer: Designing scalable, efficient, and maintainable software solutions.
+    
+    🌐 Full-Stack Developer: Building complete web applications with modern frontend and backend technologies.
+    
+    🔬 Research Interest: Interested in Machine Learning and Deep Learning, currently beginning deeper learning in AI fields.
+    
+    🌿 Continuously improving skills in modern web development, backend systems, and cloud technologies.
+    
+    💡 Passionate about solving real-world problems through impactful digital solutions.
+
+
+
+
+## 🎯 Vision & Focus
+
+
+    ⚙️  Build scalable and impactful full-stack systems
+    🧠  Begin exploring and developing strong understanding in Machine Learning and Deep Learning
+    🏛  Grow as a Backend & AI engineer
+    🌐  Solve real-world problems with smart technology
+    🚀  Become a tech leader and solution builder
+
+
+
+
+## 🛠 Tech Stack
+
+🎨 Frontend
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/> 
+
+
+
+
+
+### ⚙️ Backend
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50"/>  📡  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>  
+
+
+
+### 🗄 Database
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>  
+
+
+
+### 🧰 Tools
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="66"/>    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="66"/>  
+                          📋 Trello         
+                          ⚛️ MERN Stack       
+                          🔄 Agile Development  
+
+
+
+### 🧰 Projects
+
+🔹 Netlify Clone
+* Deployment platform with drag-and-drop upload and live preview system
+  
+🔹 Amazon Clone
+* Full e-commerce web app with authentication, cart, and checkout system
+  
+🔹 Zoom App
+* Real-time video conferencing application
+
+
+### 🧰 Tools
+###
+
+Junior Full Stack Developer (Freelance & Personal Projects)
+📅 2022 – Present
+
+* Built full-stack web and mobile applications
+* Designed responsive UI and scalable backend systems
+* Developed REST APIs and integrated Firebase services
+* Improved performance and usability of applications
 
 ---
 
-## 🛠️ Tech Stack
-- HTML, CSS, JavaScript  
-- React & Next.js  
-- Node.js & Express.js  
-- REST APIs  
-- Git & GitHub  
-- MongoDB / MySQL  
+## 🎓 Education
+
+Software Engineering Student
+Injibara University (2021 – Present)
 
 ---
 
-## 🎯 Goals
-- Build real-world web applications  
-- Contribute to open-source projects  
-- Become a strong Full-Stack Developer  
-- Improve problem-solving skills  
+## 📫 Contact
 
----
-
-## 💡 Fun Fact
-I love turning ideas into real working web apps 🚀
+📧 Email: [yibeltalyitayew25@gmail.com](mailto:yibeltalyitayew25@gmail.com)
