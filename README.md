@@ -33,29 +33,16 @@ Injibara University
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-
----
+HTML • CSS • JavaScript • React • TypeScript
 
 ### ⚙️ Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-
----
+Node.js • Express.js
 
 ### 🗄 Database
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
----
+MongoDB • MySQL
 
 ### 🧰 Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+Git • GitHub • REST APIs
 
 ---
 
@@ -65,7 +52,7 @@ Injibara University
 Deployment platform with drag-and-drop upload and live preview system.
 
 🔹 **Amazon Clone**  
-E-commerce web app with authentication, cart, and checkout system.
+E-commerce web application with authentication, cart, and checkout system.
 
 🔹 **Zoom App**  
 Real-time video conferencing application.
@@ -79,10 +66,14 @@ Real-time video conferencing application.
 - Built full-stack web applications  
 - Designed responsive UI and scalable backend systems  
 - Developed REST APIs  
-- Improved application performance and usability  
+- Improved performance and usability of applications  
 
 ---
 
 ## 📫 Contact
 
-📧 Email: henok@example.com
+📧 Email: henok@example.com  
+🔗 LinkedIn: https://www.linkedin.com/in/henok-amare  
+🐙 GitHub: https://github.com/HeniTech2  
+📺 YouTube: Henok Amare  
+💬 Telegram: @Heni_12_21  
