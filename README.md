@@ -33,16 +33,16 @@ Injibara University
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-HTML • CSS • JavaScript • React • TypeScript
+HTML • CSS • JavaScript • React • TypeScript  
 
 ### ⚙️ Backend
-Node.js • Express.js
+Node.js • Express.js  
 
 ### 🗄 Database
-MongoDB • MySQL
+MongoDB • MySQL  
 
 ### 🧰 Tools
-Git • GitHub • REST APIs
+Git • GitHub • REST APIs  
 
 ---
 
@@ -66,14 +66,26 @@ Real-time video conferencing application.
 - Built full-stack web applications  
 - Designed responsive UI and scalable backend systems  
 - Developed REST APIs  
-- Improved performance and usability of applications  
+- Improved performance and usability  
 
 ---
 
-## 📫 Contact
+## 📫 Connect with Me
 
-📧 Email: henok@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/henok-amare  
-🐙 GitHub: https://github.com/HeniTech2  
-📺 YouTube: Henok Amare  
-💬 Telegram: @Heni_12_21  
+<p align="left">
+  <a href="https://www.linkedin.com/in/henok-amare" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+
+  <a href="https://www.youtube.com/@HenokAmare" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" width="40"/>
+  </a>
+
+  <a href="https://t.me/Heni_12_21" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+📧 Email: henok@example.com
