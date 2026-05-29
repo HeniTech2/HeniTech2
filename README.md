@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:00C2FF&height=220&section=header&text=Henok%20Amare&fontSize=56&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%7C%20Software%20Engineering%20Student&descAlignY=60&descSize=16&descColor=8892b0" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;MERN+Stack+%7C+REST+APIs+%7C+Node.js;Learning+every+day+%F0%9F%9A%80;Open+to+collaborate+%26+build+cool+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;MERN+Stack+%7C+REST+APIs+%7C+Node.js;Self-Taught+%7C+Learning+Every+Day+%F0%9F%9A%80;Future%3A+E-commerce+%2B+Machine+Learning" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 ```yaml
 name: Henok Amare Abebe
-role: Full Stack Developer
+role: Self-Taught Full Stack Developer
 university: Injibara University
 degree: B.Sc. Software Engineering
 year: 2016 (2015 E.C) → Present
@@ -40,10 +40,12 @@ stack:
 interests:
   - Scalable backend systems
   - REST API architecture
-  - Modern web applications
-  - Open source contribution
+  - E-commerce platforms
+  - Machine Learning (future goal)
 
-status: Open to collaborations & opportunities ✅
+learning: Self-taught since university day one 💪
+future:   E-commerce + Machine Learning 🤖
+status:   Open to collaborations & opportunities ✅
 ```
 
 <br clear="right"/>
@@ -161,14 +163,16 @@ status: Open to collaborations & opportunities ✅
 
 ---
 
-## 💼 Experience
+## 💼 Journey
 
-**Junior Full Stack Developer** · *Freelance & Personal Projects* · `2022 – Present`
+**Self-Taught Full Stack Developer** · *Independent Projects & Continuous Learning* · `2022 – Present`
 
-- 🔧 Architected and shipped full-stack web applications end-to-end
-- 🎨 Built pixel-perfect, responsive UIs with React and modern CSS
-- 🔌 Designed and documented RESTful APIs using Node.js & Express
-- 📈 Optimized performance and improved UX across multiple deployments
+- 🧠 Self-taught developer — learned everything from scratch outside the classroom
+- 🔧 Built full-stack web applications independently using MERN stack
+- 🎨 Designed responsive UIs and scalable backend systems from zero
+- 🔌 Developed REST APIs with Node.js & Express through hands-on projects
+- 🤖 Currently exploring E-commerce systems with a future goal in Machine Learning
+- 🚀 Driven by curiosity — continuously learning new technologies every day
 
 ---
 
