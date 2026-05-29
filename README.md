@@ -33,37 +33,37 @@ Injibara University
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<p style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
 ### ⚙️ Backend
-<p style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
 ### 🗄 Database
-<p style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
 ### 🧰 Tools
-<p style="display:flex; gap:12px; align-items:center;">
+<div style="display:flex; gap:12px; align-items:center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
@@ -94,7 +94,7 @@ Real-time video conferencing application.
 
 ## 📫 Connect with Me
 
-<p style="display:flex; gap:16px; align-items:center;">
+<div style="display:flex; gap:16px; align-items:center;">
   <a href="https://www.linkedin.com/in/henok-amare" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
@@ -106,7 +106,7 @@ Real-time video conferencing application.
   <a href="https://t.me/Heni_12_21" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/>
   </a>
-</p>
+</div>
 
 ---
 
