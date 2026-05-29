@@ -1,4 +1,3 @@
-```md id="readme"
 # Hi, I'm Henok Amare 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=700&lines=Software+Engineering+Student;Full+Stack+Developer;Backend+Engineer;MERN+Stack+Developer;Frontend+Engineer)](https://git.io/typing-svg)
@@ -99,11 +98,9 @@ Real-time video conferencing application.
   <a href="https://www.linkedin.com/in/henok-amare" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
   </a>
-
   <a href="https://www.youtube.com/@Heni_12_21" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45"/>
   </a>
-
   <a href="https://t.me/Heni_12_21" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="45"/>
   </a>
@@ -112,4 +109,3 @@ Real-time video conferencing application.
 ---
 
 📧 Email: henok@example.com
-```
